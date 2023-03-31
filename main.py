@@ -20,4 +20,4 @@ async def dm_all(ctx, *, message = None):
 	  else:
 		  await ctx.send("Please provide an message!")
 
-client.run(token)
+client.run(ODk1MzM0NDQ3MjY2Nzk1NTgy.Gsx4b7.sJEV-_i5ivv9qcr7NYsQXCKEUJcb5b1QxmCkzg)
